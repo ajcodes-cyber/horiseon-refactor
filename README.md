@@ -1,4 +1,4 @@
-# <Your-Project-Title>
+# Horiseon Refactor 
 
 ## Description
 
@@ -9,6 +9,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - What problem does it solve?
 - What did you learn?
 
+
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -17,6 +18,25 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+
+## User Story
+
+AS a marketing agency I want a codebase that follows accessibility standards so that our own site is optimized for search engines
+
+## Acceptance Criteria
+
+GIVEN a webpage meets accessibility standards
+
+* WHEN I view the source code THEN I find semantic HTML elements
+
+* WHEN I view the structure of the HTML elements THEN I find that the elements follow a logical structure independent of styling and positioning
+
+* WHEN I view the image elements THEN I find accessible alt attributes
+
+* WHEN I view the heading attributes THEN they fall in sequential order
+
+* WHEN I view the title element THEN I find a concise, descriptive title
+
 
 ## Installation
 
@@ -42,7 +62,7 @@ If you followed tutorials, include links to those here as well.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+No license necessary
 
 ---
 
