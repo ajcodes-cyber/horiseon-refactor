@@ -2,13 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
+The purpose of this project is to refactor the codebase in order to adhere to accessibility standards. We also want the codebase to perform well with search engine optimization. This will be accomplished by editing the semantic HTML elements so that the browser can clearly understand what the content is.
 
 ## Table of Contents (Optional)
 
