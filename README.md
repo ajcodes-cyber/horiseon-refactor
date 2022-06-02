@@ -30,30 +30,11 @@ In order to view the homepage for Horiseon, you will need to visit the live depl
 
 ## Usage
 
-![Homepage screenshot] (images/Horiseon - a search engine optimization company.jpeg)
+![Homepage screenshot](./assets/images/horiseon-screenshot.jpeg)
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-![image] (./assets/images/Horiseon - a search engine optimization company.jpeg)
-
- ```md
-    ![Homepage for Horiseon website](assets/images/Horiseon - a search engine optimization company.jpeg)
-    ```
-
-![Homepage screenshot] (images/Horiseon - a search engine optimization company.jpeg)
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+I spent some time working with Tanner Ruminer on this project.
 
 ## License
 
@@ -61,9 +42,5 @@ No license necessary
 
 ## Features
 
-If your project has a lot of features, list them here.
+Screenreaders should be able to identify tags easily with the semantic labeling.
 
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
